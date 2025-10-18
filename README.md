@@ -1,45 +1,77 @@
-# CODEX - Your Offline Coding Environment
+# 🧠 CODEX — Your Offline Coding Environment  
 
-## Overview
-CODEX is a desktop application designed to provide an offline environment for practicing and solving programming problems. It allows users to browse problem descriptions, write code in various languages (C++, C, Python, Java), compile, and test their solutions against predefined test cases, all without an internet connection.
+> **CODEX** is a lightweight desktop application that provides a complete offline environment for practicing and solving programming problems.  
+> Write, compile, and test code in C++, C, Python, and Java — all without needing an internet connection.
 
-## Features
--   **Offline Problem Solving:** Access and solve a wide range of programming problems locally.
--   **Integrated Code Editor:** A powerful code editor with syntax highlighting and basic auto-completion for parentheses/brackets.
--   **Multi-language Support:** Write and test solutions in C++, C, Python, and Java.
--   **Automated Testing:** Test your code against provided input/output test cases.
--   **Problem Status Tracking:** Keep track of your progress with problems marked as solved (Success) or failed.
--   **Dracula Theme Output:** Compiler and test results are displayed with a clear, Dracula-themed output panel.
+---
 
-## Installation
+## 🚀 Overview
+CODEX brings the power of online coding platforms to your desktop. Whether you’re studying on the go or working in a network-restricted environment, CODEX lets you browse problems, write solutions, and test them instantly — all locally.
 
-To install CODEX, simply download and run the `install.ps1` script. This script will:
-1.  Automatically request Administrator privileges.
-2.  Display the Terms of Use.
-3.  Check for and install the .NET SDK 8.0 (x64) if needed.
-4.  Download the CODEX source code from GitHub.
-5.  Build the application.
-6.  Install the application to `C:\Program Files\CODEX`.
-7.  Create a desktop shortcut for easy access.
+---
 
-**How to Run the Installer:**
-1.  Download the `install.ps1` file from the project's GitHub repository.
-2.  Right-click on `install.ps1` and select "Run with PowerShell".
-3.  Follow the on-screen prompts.
+## ✨ Features
+- 📴 **Offline Problem Solving:**  
+  Access a library of programming problems and solve them without any internet access.
 
-## Usage
-1.  **Search for Problems:** Use the search bar on the main screen to find problems by number or title.
-2.  **Select a Problem:** Click on a problem from the list to view its description.
-3.  **Write Code:** Select your preferred language from the dropdown and write your solution in the code editor.
-4.  **Save & Submit:** Use the "Save" button to save your code. Click "Submit" to compile and run your code against test cases.
-5.  **View Results:** The output panel will display compilation errors, test results, and execution details.
+- 💻 **Integrated Code Editor:**  
+  Built-in editor with syntax highlighting, bracket/parentheses auto-completion, and a smooth typing experience.
 
-## Contributing
-(If applicable, add guidelines for contributing to the project)
+- 🌐 **Multi-language Support:**  
+  Run and test solutions in **C++**, **C**, **Python**, and **Java** seamlessly.
 
-## License
-This project is licensed under the **GPL-3.0 License**. See the [LICENSE](LICENSE) file for details.
+- ⚙️ **Automated Testing:**  
+  Validate your code against preloaded input/output test cases.
 
-## Contact
-For any inquiries or support, please contact:
-kbs.programmer@gmail.com
+- 📊 **Progress Tracking:**  
+  Automatically mark problems as **Solved (Success)** or **Failed**, and monitor your learning journey.
+
+- 🌙 **Dracula-Themed Output Panel:**  
+  Enjoy clean, readable results in a stylish dark interface.
+
+---
+
+## 🧩 Installation
+
+To install CODEX, simply run the PowerShell installer:
+
+### 🪄 Steps:
+1. **Download** the `install.ps1` file from this repository.  
+2. **Right-click** it and choose **"Run with PowerShell"**.  
+3. Follow the prompts — the installer will:
+   - Request administrator privileges  
+   - Display the Terms of Use  
+   - Check for and install the **.NET SDK 8.0 (x64)** if missing  
+   - Clone the CODEX repository from GitHub  
+   - Build and install the app to `C:\Program Files\CODEX`  
+   - Create a desktop shortcut  
+
+Once complete, launch CODEX from your desktop.
+
+---
+
+## 🧠 Usage Guide
+
+1. 🔍 **Search Problems** — Find problems by title or ID.  
+2. 📖 **View Description** — Read problem statements offline.  
+3. 🧑‍💻 **Write Code** — Choose your language and write your solution.  
+4. 💾 **Save & Submit** — Save your work or compile/run it directly.  
+5. 🧾 **Check Results** — View compiler output, test results, and runtime info in the output panel.  
+
+---
+
+## 🤝 Contributing
+We welcome contributions!  
+If you’d like to improve CODEX, please submit a pull request or open an issue describing your suggestion.
+
+---
+
+## 📜 License
+This project is licensed under the **GPL-3.0 License**.  
+See the [LICENSE](LICENSE) file for full details.
+
+---
+
+## 📬 Contact
+For questions, suggestions, or feedback:  
+**📧 Email:** [kbs.programmer@gmail.com](mailto:kbs.programmer@gmail.com)
